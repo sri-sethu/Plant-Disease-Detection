@@ -35,9 +35,9 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+▶️ **Run the Application Locally**
 
-Visit 
 ```
-http://127.0.0.1:5000
+python app.py
 ```
- in your browser to use the app
+Visit http://127.0.0.1:5000 in your browser to use the app
