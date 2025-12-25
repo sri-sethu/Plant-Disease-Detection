@@ -2,7 +2,7 @@
 
 A deep learning–powered web application to detect plant diseases from leaf images. Built using Flask, this app allows users to upload images and get instant predictions using a trained classification model.
 
-**Live Demo**: [Plant Disease Detection on Render](https://plant-disease-detection-0i18.onrender.com/)
+**Live Demo**: [Plant Disease Detection on Render](https://plant-disease-detection-we18.onrender.com/)
 
 ---
 
